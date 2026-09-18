@@ -1,6 +1,6 @@
 # :pleading_face::pleading_face::pleading_face::pleading_face::pleading_face::pleading_face::pleading_face::pleading_face::pleading_face::pleading_face::pleading_face::pleading_face::pleading_face::pleading_face:
 
-Kocham jeść jeszenie
+**Kocham** *jeść* **jedzenie**
 
 | A | B |
 |---|---|
@@ -8,7 +8,7 @@ Kocham jeść jeszenie
 | I | D |
 | O | F |
 
-"y"
+> "y"
 
 - [Link](https://example.com)
 - [@DELEK09](https://github.com/DELEK09)
