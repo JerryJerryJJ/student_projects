@@ -9,3 +9,15 @@ OOOOO OOOO  ooo ooooo
   O   O       o   o
   O   OOOO ooo    o
 
+IIIII  GGGG  OOO  RRR
+  I   G     O   O R  R
+  I   G  GG O   O RRR
+  I   G   G O   O R  R
+IIIII  GGG   OOO  R  R
+                   Ń
+                  Ń
+BBB  IIIII EEEE Ń   Ń K  K  OOO
+B  B   I   E    ŃŃ  Ń K K  O   O
+BBB    I   EEEE Ń Ń Ń KK   O   O
+B  B   I   E    Ń  ŃŃ K K  O   O
+BBB  IIIII EEEE Ń   Ń K  K  OOO
