@@ -14,3 +14,8 @@
 - [@DELEK09](https://github.com/DELEK09)
 - [facebook](https://youtu.be/dQw4w9WgXcQ?si=4I3CIserL73gkftU)
 
+ ( N   N III EEEE )
+(  NN  N  I  E     )
+(  N N N  I  EEEE  )
+(  N  NN  I  E     )
+ ( N   N III EEEE )
