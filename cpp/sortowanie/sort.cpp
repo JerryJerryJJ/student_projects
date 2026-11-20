@@ -2,11 +2,11 @@
 
 using namespace std;
 
-void sort(int list[10]){
-	for(int i = 0; i < 10; i++){
-		for(int j; j < 10 - i; j++){
-			if(list[j] > list[j+1]){
-				swap(list[j], list[j+1]);
+void sort(int liczby[10]){
+	for(int i = 0; i < 9; i++){
+		for(int j = 0; j < 9 - i; j++){
+			if(liczby[j] > liczby[j+1]){
+				swap(liczby[j], liczby[j+1]);
 			}
 		}
 	}
